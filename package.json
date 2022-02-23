@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest"
   },
-  "start": "npde server.js",
+
+  "start": "node server.js",
 
   "repository": {
     "type": "git",
